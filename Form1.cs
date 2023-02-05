@@ -12,6 +12,7 @@ namespace TestVStudioGIT
             MessageBox.Show("Hello World my friend");
             MessageBox.Show("Hello World From Carlos");
             MessageBox.Show("Hello World to everywhere");
+            MessageBox.Show("Hola mundo");
 
         }
     }
