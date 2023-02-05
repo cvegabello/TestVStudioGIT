@@ -20,11 +20,7 @@ namespace TestVStudioGIT
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World by Josh1");
-            MessageBox.Show("Hello World by Josh2");
-            MessageBox.Show("Hello World by Josh3");
-            MessageBox.Show("Hello World by Josh4");
-            MessageBox.Show("Hello World by Josh5");
-            MessageBox.Show("Hello World by Josh6");
+            
         }
     }
 }
