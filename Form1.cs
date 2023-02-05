@@ -10,12 +10,8 @@ namespace TestVStudioGIT
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World my friend");
-            MessageBox.Show("Hello World From Carlos");
-            MessageBox.Show("Hello World to everywhere");
-            MessageBox.Show("Hola mundo");
-            MessageBox.Show("Hola todo el mundo");
-            MessageBox.Show("Hola todo el mundo y todo el planeta");
-            MessageBox.Show("Hola todo el mundo y todo el planeta y todo el universo");
+            MessageBox.Show("Hello World From Josh");
+            
 
         }
     }
