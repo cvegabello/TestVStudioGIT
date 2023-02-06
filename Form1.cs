@@ -10,10 +10,20 @@ namespace TestVStudioGIT
         private void button1_Click(object sender, EventArgs e)
         {
 
+
             
             MessageBox.Show("Hello World1");
             MessageBox.Show("Hello World2");
             
+        
+            MessageBox.Show("Hola mundo1");
+            MessageBox.Show("Hola mundo2");
+            MessageBox.Show("Hola mundo3");
+
+
+        
+           
+
         }
     }
 }
